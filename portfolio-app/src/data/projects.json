@@ -1,0 +1,43 @@
+{
+    "projects": [
+        { 
+            "id": 1, 
+            "title": "Accessible Parks", 
+            "image": "", 
+            "repo": "https://github.com/baspin94/accessible-parks", 
+            "app": "accessible-parks.onrender.com", 
+            "description": "Accessible Parks enables users to search for US national parks with particular accessibility-related amenities available. Any user can create a profile, search for parks by accessibility-related amenities, view additional details about each park and the overall accessibility features available, and view reviews for a park. Additionally, registered users can save parks to explore later and leave a review about their experience at a park.", 
+            "achievements": [
+                "Crafted backend logic using Python and Flask for users to search for multiple amenities at once and return the intersection of results matching all selected criteria", 
+                "Leveraged the Chakra UI library to design a responsive, accessible user interface with WAI-ARIA roles and attributes.", 
+                "Created Python scripts to extract data from the National Parks Service API, transform it based on the app’s database schema, and load the results into a SQLite database."
+                ]
+            },
+        { 
+            "id": 2, 
+            "title": "unTITLEd Book Club", 
+            "image": "", 
+            "repo": "https://github.com/baspin94/project-untitled", 
+            "app": "https://untitled-b8l3.onrender.com/", 
+            "description": "The unTITLEd Book Club app is where hosts and members can oversee and participate in their virtual book clubs, including viewing book details, managing group membership, and setting or responding to discussion questions.", 
+            "achievements": [
+                "Created Flask API backend using SQLAlchemy and PostgreSQL to manage and query databases efficiently.", 
+                "Built forms using the Formik and Yup libraries with data validation and error handling to maintain a clean database and seamless user experience.", 
+                "Fetched and rendered appropriate information from within complex nested data structures."
+                ]
+        },
+        { 
+            "id": 3, 
+            "title": "Peril! Trivia Game", 
+            "image": "", 
+            "repo": "https://github.com/baspin94/Trivia-Game/tree/main", 
+            "app": "https://peril-trivia.netlify.app/", 
+            "description": "'Peril!' is a single-player trivia game that provides users with a fun and educational experience. Users can view a homepage with a game board filled with clue cards and a display where they can view the clue, submit their answers, and track their score. Users can also save clues they want to refer back to and submit a new clue for inclusion in a future game.", 
+            "achievements": [
+                "Designed user interface with React, using CSS Flexbox for responsive styling of the game board and display.", 
+                "Configured three client-side routes using React Router for users to easily navigate between areas of the app.", 
+                "Leveraged Fuse.js library to incorporate fuzzy-search for user inputs, allowing more leniency when users submit responses with typos or minor differences from the correct answer."
+                ]
+        }
+    ]
+  }
