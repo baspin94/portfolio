@@ -8,7 +8,7 @@ function Header() {
     return (
         <VStack>
                 <Image src={BeeLogo} boxSize='15%'/>
-                <Heading>Bianca "Bee" Aspin</Heading>
+                <Heading as="h1">Bianca "Bee" Aspin</Heading>
                 <Text fontSize='2xl'>Full-Stack Web Developer</Text>
                 <Box>
                     <HStack justifyContent='center' spacing='5'>
