@@ -1,0 +1,14 @@
+{
+    "skills": [
+      { "id": 1, "title": "JavaScript", "image": "https://icons8.com/icon/108784/javascript" },
+      { "id": 2, "title": "React", "image": "https://icons8.com/icon/123603/react-native" },
+      { "id": 3, "title": "Python", "image": "https://icons8.com/icon/13441/python" },
+      { "id": 4, "title": "Flask", "image": "https://icons8.com/icon/TtXEs5SeYLG8/flask" },
+      { "id": 5, "title": "SQL", "image": "https://icons8.com/icon/13406/sql" },
+      { "id": 6, "title": "HTML", "image": "https://icons8.com/icon/20909/html-5" },
+      { "id": 7, "title": "CSS", "image": "https://icons8.com/icon/21278/css3" },
+      { "id": 8, "title": "Git", "image": "https://icons8.com/icon/20906/git" },
+      { "id": 9, "title": "REST APIs", "image": "https://icons8.com/icon/21895/rest-api" },
+      { "id": 10, "title": "Web Accessibility", "image": "https://icons8.com/icon/63223/web-accessibility" }
+    ]
+  }
