@@ -1,14 +1,14 @@
 {
     "skills": [
-      { "id": 1, "title": "JavaScript", "image": "https://icons8.com/icon/108784/javascript" },
-      { "id": 2, "title": "React", "image": "https://icons8.com/icon/123603/react-native" },
-      { "id": 3, "title": "Python", "image": "https://icons8.com/icon/13441/python" },
-      { "id": 4, "title": "Flask", "image": "https://icons8.com/icon/TtXEs5SeYLG8/flask" },
-      { "id": 5, "title": "SQL", "image": "https://icons8.com/icon/13406/sql" },
-      { "id": 6, "title": "HTML", "image": "https://icons8.com/icon/20909/html-5" },
-      { "id": 7, "title": "CSS", "image": "https://icons8.com/icon/21278/css3" },
-      { "id": 8, "title": "Git", "image": "https://icons8.com/icon/20906/git" },
-      { "id": 9, "title": "REST APIs", "image": "https://icons8.com/icon/21895/rest-api" },
-      { "id": 10, "title": "Web Accessibility", "image": "https://icons8.com/icon/63223/web-accessibility" }
+      { "id": 1, "title": "JavaScript", "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg", "credit": "Chris Williams, Public domain, via Wikimedia Commons"},
+      { "id": 2, "title": "React", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg", "credit": "Facebook, Public domain, via Wikimedia Commons" },
+      { "id": 3, "title": "Python", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg", "credit": "www.python.org, GPL <http://www.gnu.org/licenses/gpl.html>, via Wikimedia Commons" },
+      { "id": 4, "title": "Flask", "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg", "credit": "Armin Ronacher, Copyrighted free use, via Wikimedia Commons" },
+      { "id": 5, "title": "SQL", "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Database-postgres.svg", "credit": "RRZEicons, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons" },
+      { "id": 6, "title": "HTML", "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg", "credit": "W3C, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons" },
+      { "id": 7, "title": "CSS", "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg", "credit": "Rudloff, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons" },
+      { "id": 8, "title": "Git", "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg", "credit": "Jason Long, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons" },
+      { "id": 9, "title": "REST APIs", "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg", "credit": "Markus Spiske markusspiske, CC0, via Wikimedia Commons" },
+      { "id": 10, "title": "Web Accessibility", "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Accessibility_logo.svg", "credit": "Pablo Busatto, Public domain, via Wikimedia Commons" }
     ]
   }

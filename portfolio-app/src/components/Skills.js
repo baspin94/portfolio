@@ -5,7 +5,7 @@ import SkillCard from "./SkillCard";
 function Skills() {
 
     const skillList = data.skills.map(skill => {
-        return <SkillCard key={skill.id} name={skill.title} image={skill.image}/>
+        return <SkillCard key={skill.id} name={skill.title} image={skill.image} credit={skill.credit}/>
     })
     
 
