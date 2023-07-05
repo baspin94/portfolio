@@ -1,4 +1,4 @@
-import { Heading, Box } from "@chakra-ui/react";
+import { Heading, Box, SimpleGrid} from "@chakra-ui/react";
 import data from  '../data/skills.json';
 import SkillCard from "./SkillCard";
 
@@ -12,7 +12,10 @@ function Skills() {
     return (
         <Box>
             <Heading>Skills</Heading>
-            {skillList}
+            <SimpleGrid margin="auto" w="50%" columns={5} spacing={2}>
+                {skillList}
+            </SimpleGrid>
+            
         </Box>
         
     )

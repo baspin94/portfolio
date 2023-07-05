@@ -3,12 +3,12 @@ import { Card, CardBody, CardHeader, Image, Heading } from "@chakra-ui/react";
 function SkillCard({name, image, credit}) {
     
     return (
-        <Card>
+        <Card size="sm" border="1px" align="center">
             <CardBody>
-                <Image src={image} alt="" title={credit} w="240" h="240"/>
+                <Image src={image} alt="" title={credit} w="100%" h="100%"/>
             </CardBody>
-            <CardHeader>
-                <Heading>{name}</Heading>
+            <CardHeader align="center">
+                <Heading as="h3" size="sm">{name}</Heading>
             </CardHeader>
         </Card>
     )
